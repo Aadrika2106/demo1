@@ -1,4 +1,4 @@
 # demo1
 my first repo
 <br>
-Author - Aadrika
+Author - Aadrika Gupta
